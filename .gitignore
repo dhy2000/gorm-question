@@ -1,0 +1,7 @@
+.idea/
+.vscode/
+
+config.yaml
+
+/app
+/app.exe
